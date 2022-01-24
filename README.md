@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 03 JavaScript: Password Generator
 
 ## Your Task
@@ -90,3 +91,12 @@ You are required to submit the following for review:
 
 - - -
 © 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
+=======
+# password-generator-Tae
+
+Random Password Generator
+
+https://github.com/jfrancis268/password-generator-Tae.git
+
+https://jfrancis268.github.io/password-generator-Tae/
+>>>>>>> 6bf5ecdf430c5cedae2bb3318f318f2299cd2016
