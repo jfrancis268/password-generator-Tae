@@ -2,8 +2,6 @@
 
 Random Password Generator
 
+https://github.com/jfrancis268/password-generator-Tae.git
 
-(./assets/02-Homework/Assets/Screen Shot 2022-01-23 at 8.43.57 PM.png)
-(./assets/02-Homework/Assets/Screen Shot 2022-01-23 at 8.44.27 PM.png)
-(./assets/02-Homework/Assets/Screen Shot 2022-01-23 at 8.44.41 PM.png)
-(./assets/02-Homework/Assets/Screen Shot 2022-01-23 at 8.44.54 PM.png)02-Homework/Assets/Screen Shot 2022-01-23 at 8.44.54 PM.png
+https://jfrancis268.github.io/password-generator-Tae/
